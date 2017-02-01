@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_cors_header","Returns correct CORS header (if any) given list of allowed origins and current origin."],["read_origin","Reads Origin header from the request."]]});

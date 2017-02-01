@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["StatusCode","An HTTP status code (`status-code` in RFC 7230 et al.)."]],"struct":[["ContentType","`Content-Type` header, defined in RFC7231"],["Request","Simple client Request structure"],["Response","Simple server response structure"]]});
